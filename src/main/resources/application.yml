@@ -1,0 +1,3 @@
+aws:
+  access-key: <aws-iam-accessKey>
+  secret-key: <aws-iam-secretkey>
